@@ -1,1 +1,1 @@
-# Личный проект <url href="moonlit-syrniki-0e322c.netlify.app/">«Седона»</url>
+# Личный проект <a href="moonlit-syrniki-0e322c.netlify.app/">«Седона»</a>
